@@ -1,0 +1,15 @@
+.header-container {
+    height:700px;
+    position:relative;
+    background-color: #FBD062;
+}
+/* .header-container::after {
+    height:700px;
+    content:' ';
+    position: absolute;
+    top: 0;
+    width: 32%;
+    right: 0;
+    background-color: #3A4256;
+    z-index: -50;
+} */

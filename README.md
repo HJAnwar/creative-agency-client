@@ -1,9 +1,10 @@
 You Cam see my serume [MY RESUME](https://drive.google.com/file/d/1KvYseegKgUbaGaDG36qjWYpQdZEv4pCO/view?fbclid=IwAR05qlmgWsKXthGMnT_LjcCJFNXm6X6wTDPwSP9kWW6hIR8VvqEWaX2aJh4).
 
+Project Live link [Live Link](https://creative-agency2391.web.app/).
+
 ## creative-agency-client
-  Beautiful layout and responsive design. So that the user is fascinated. The user can
-  visit with any device. React.js, Express.js, Firebase, MongoDB, Bootstrap and modern
-  technology have been used.
+  This is the IT service center. Where anyone can buy the service he/she
+  needs.Beautiful layout and responsive design. 
   
 ### Technology used:
     1/ React.js
@@ -18,7 +19,12 @@ You Cam see my serume [MY RESUME](https://drive.google.com/file/d/1KvYseegKgUbaG
     1/ When user login, its information is saved by firebase.
     2/ user will be able to register by making the necessary appointment.
     3/ When the doctor logs in, the admin dashboard will show.
-    4/ If want, the doctor can see all the appointments.
+    4/ If want, the Admin can see all the register work.
+    5/ When user login, its information is saved by firebase.
+    6/ When the Admin logs in, the admin dashboard will show.
+    7/ Admin will be able to add new service.
+    8/ Admin can create new admin.
+    
 
 ## Available ScriptsAS
 

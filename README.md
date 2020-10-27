@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+You Cam see my serume [MY RESUME](https://drive.google.com/file/d/1KvYseegKgUbaGaDG36qjWYpQdZEv4pCO/view?fbclid=IwAR05qlmgWsKXthGMnT_LjcCJFNXm6X6wTDPwSP9kWW6hIR8VvqEWaX2aJh4).
 
 ## Available Scripts
 
